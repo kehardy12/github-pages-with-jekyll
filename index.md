@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my blog :smiley:
 
-I'm glad you are here. I plan to talk about ...
+Here is my homepage of my work on Github so far. (* some work may still be in progress*)
